@@ -10,12 +10,30 @@
 - 💬 Ask me about - Anything (not my personal life , buddy !!)
 - 📫 How to reach me: ✔️[LinkedIn](https://www.linkedin.com/in/knguyenanh8194) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knguyenanh8194@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 😄 Pronouns: He/ Mr./ Bro 😆
-- ⚡ Fun fact: I am a hardcore casual gamer too 🎮 [SteamID](steamcommunity.com/id/Asher_13th)
+- ⚡ Fun fact: I am a hardcore casual gamer too 🎮 [SteamID](https://steamcommunity.com/id/Asher_13th)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aKn8194&label=Profile%20views&color=0e75b6&style=flat-square" alt="aKn8194" /> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
-[<img align="left" alt="Khoi Nguyen Anh | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/knguyenanh8194)
-[<img align="left" alt="Khoi Nguyen Anh | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knguyenanh8194@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
-[<img align="left" alt="Khoi Nguyen Anh | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/steam.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knguyenanh8194@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+<h2></h2>
+<h3 align="left"><b>My skill sets:</b></h3>
+
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ </p>
+
+<h3 align="left">Reach me at:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/knguyenanh8194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/knguyenanh8194/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/Asher_13th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="https://steamcommunity.com/id/Asher_13th" height="30" width="40" /></a>
+</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aKn8194&show_icons=true&locale=en" alt="aKn8194" />
+ </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aKn8194&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="aKn8194" /></p>
