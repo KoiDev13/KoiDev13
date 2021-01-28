@@ -33,6 +33,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/knguyenanh8194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/knguyenanh8194/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/profile/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="https://www.datacamp.com/profile/knguyenanh8194" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Asher_13th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="https://steamcommunity.com/id/Asher_13th" height="30" width="40" /></a>
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aKn8194&show_icons=true&locale=en" alt="aKn8194" />
