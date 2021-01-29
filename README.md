@@ -17,16 +17,31 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
 <h2></h2>
-<h3 align="left"><b>My skill sets:</b></h3>
+<h3 align="left"><b>⭐️ My expertise ⭐️ </b></h3>
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> 
+🔶Programing Language: 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.sql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" alt="sql" width="40" height="40"/> </a>
+</a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c-sharp" width="40" height="40"/> </a>
 
+🔶Technology: 
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="apache" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+🔶RDBMS: 
+<a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/306420/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/> </a> 
+<a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/305710/apachecassandra.svg" alt="cassandra" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+🔶Visualization: 
+<a href="https://superset.apache.org/" target="_blank"> <img src="https://www.freney.com/images/supersetcolor.png" alt="superset" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://www.svgrepo.com/show/306830/tableau.svg" alt="tableau" width="40" height="40"/> </a> 
+
  </p>
 
 <h3 align="left">Reach me at:</h3>
