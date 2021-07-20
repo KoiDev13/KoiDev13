@@ -49,5 +49,5 @@
 <a href="https://www.datacamp.com/profile/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="https://www.datacamp.com/profile/knguyenanh8194" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Asher_13th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="https://steamcommunity.com/id/Asher_13th" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aKn8194&show_icons=true&locale=en" alt="KoiDev13" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aKn8194&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="KoiDev13" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KoiDev13&show_icons=true&locale=en" alt="KoiDev13" />
+ </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KoiDev13&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="KoiDev13" /></p>
