@@ -1,7 +1,7 @@
 ### Xin chào (Hi there) 👋, I'm ✨Khôi Nguyễn Anh✨ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3>I am working as a Data Engineer, a Daydreamer Night thinker , nice to meeet you guys here 😎 </h3>
+<h3>I am working as a Data Engineer, a Daydreamer Night thinker , nice to meet you guys here 😎 </h3>
 
 - 🔭 I’m currently working on Unified Post (VN)
 - 🌱 I’m currently learning Apache Hadoop Ecosystem/ Google Cloud Platform/ Microsoft Azure Services
