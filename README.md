@@ -52,4 +52,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KoiDev13&show_icons=true&locale=en" alt="KoiDev13" />
  </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KoiDev13&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="KoiDev13" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13)](https://github.com/KoiDev13/github-profile-trophy)
+## Github stats
+
+![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=nicor88&theme=tokyonight&count_private=true)
+![image alt <](https://github-readme-stats.vercel.app/api/?username=nicor88&theme=tokyonight&count_private=true)
+
+### Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nicor88)](https://github.com/ryo-ma/github-profile-trophy)
