@@ -51,3 +51,5 @@
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KoiDev13&show_icons=true&locale=en" alt="KoiDev13" />
  </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KoiDev13&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="KoiDev13" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13)](https://github.com/KoiDev13/github-profile-trophy)
