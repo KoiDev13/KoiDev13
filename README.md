@@ -3,8 +3,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>I am working as a Data Engineer, a Daydreamer Night thinker , nice to meeet you guys here 😎 </h3>
 
-- 🔭 I’m currently working on Home Credit VN (HCVN)
-- 🌱 I’m currently learning Apache Hadoop Ecosystem
+- 🔭 I’m currently working on Unified Post (VN)
+- 🌱 I’m currently learning Apache Hadoop Ecosystem/ Google Cloud Platform/ Microsoft Azure Services
 - 👯 I’m looking to collaborate on any project with the role as Data Engineer
 - 🤔 I’m looking for help with learning in the [Data Engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - 💬 Ask me about - Anything (not my personal life , buddy !!)
