@@ -14,7 +14,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
-<h2></h2>
 <h3 align="left"><b>⭐️ My expertise ⭐️ </b></h3>
 
 <p align="left"> 
@@ -48,15 +47,14 @@
 <a href="https://www.hackerrank.com/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/profile/knguyenanh8194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="https://www.datacamp.com/profile/knguyenanh8194" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Asher_13th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="https://steamcommunity.com/id/Asher_13th" height="30" width="40" /></a>
-</p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KoiDev13&show_icons=true&locale=en" alt="KoiDev13" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KoiDev13&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="KoiDev13" /></p>
 
-## Github stats
 
-![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=nicor88&theme=tokyonight&count_private=true)
-![image alt <](https://github-readme-stats.vercel.app/api/?username=nicor88&theme=tokyonight&count_private=true)
+<h3 align="left">Github stats</h3>
 
-### Profile Trophies
+![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=KoiDev13&theme=tokyonight&count_private=true)
+![image alt <](https://github-readme-stats.vercel.app/api/?username=KoiDev13&theme=tokyonight&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicor88)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Profile Trophies</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13)](https://github.com/KoiDev13/github-profile-trophy)
