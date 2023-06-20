@@ -1,7 +1,7 @@
 ### Xin chào (Hi there) 👋, I'm ✨Khôi Nguyễn Anh✨ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
 <h3>I am working as a Data Engineer, a Daydreamer Night thinker , nice to meet you guys here 😎 </h3>
-<a href="https://app.daily.dev/akn13th"><img src="https://api.daily.dev/devcards/15ce9e58a052412bb4a5ea84589777b7.png?r=x28" width="400" alt="Khoi Nguyen's Dev Card"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aKn8194&label=Profile%20views&color=0e75b6&style=flat-square" alt="aKn8194" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on Unified Post (VN)
@@ -10,8 +10,6 @@
 - 🤔 I’m looking for help with learning in the [Data Engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - 💬 Ask me about - Anything (not my personal life , buddy !!)
 - ⚡ Fun fact: I am a hardcore casual gamer too 🎮 [SteamID](https://steamcommunity.com/id/Asher_13th)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aKn8194&label=Profile%20views&color=0e75b6&style=flat-square" alt="aKn8194" /> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
@@ -59,3 +57,4 @@
 <h3 align="left">Profile Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13)](https://github.com/KoiDev13/github-profile-trophy)
+<a href="https://app.daily.dev/akn13th"><img src="https://api.daily.dev/devcards/15ce9e58a052412bb4a5ea84589777b7.png?r=x28" width="400" alt="Khoi Nguyen's Dev Card"/></a>
