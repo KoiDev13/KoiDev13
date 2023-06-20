@@ -1,9 +1,9 @@
 ### Xin chào (Hi there) 👋, I'm ✨Khôi Nguyễn Anh✨ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>I am working as a Data Engineer, a Daydreamer Night thinker , nice to meet you guys here 😎 </h3>
 <a href="https://app.daily.dev/akn13th"><img src="https://api.daily.dev/devcards/15ce9e58a052412bb4a5ea84589777b7.png?r=x28" width="400" alt="Khoi Nguyen's Dev Card"/></a>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on Unified Post (VN)
 - 🌱 I’m currently learning Apache Hadoop Ecosystem/ Google Cloud Platform/ Microsoft Azure Services
 - 👯 I’m looking to collaborate on any project with the role as Data Engineer
