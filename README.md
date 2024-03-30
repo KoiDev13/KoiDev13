@@ -4,12 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aKn8194&label=Profile%20views&color=0e75b6&style=flat-square" alt="aKn8194" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-- 🔭 I’m currently working on Unified Post (VN)
+
 - 🌱 I’m currently learning Apache Hadoop Ecosystem/ Google Cloud Platform/ Microsoft Azure Services
 - 👯 I’m looking to collaborate on any project with the role as Data Engineer
 - 🤔 I’m looking for help with learning in the [Data Engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - 💬 Ask me about - Anything (not my personal life , buddy !!)
-- ⚡ Fun fact: I am a hardcore casual gamer too 🎮 [SteamID](https://steamcommunity.com/id/Asher_13th)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
