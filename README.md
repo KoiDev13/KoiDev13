@@ -56,4 +56,3 @@
 <h3 align="left">Profile Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13)](https://github.com/KoiDev13/github-profile-trophy)
-<a href="https://app.daily.dev/akn13th"><img src="https://api.daily.dev/devcards/15ce9e58a052412bb4a5ea84589777b7.png?r=x28" width="400" alt="Khoi Nguyen's Dev Card"/></a>
