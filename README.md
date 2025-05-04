@@ -28,7 +28,7 @@ I’m a **Data Engineer** with a growing interest in **open source**, **DataOps*
 #### 🧱 Data Engineering Tools
 <p>
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/airflow-icon-256x256-la90eetn.png" width="40"/></a>
-<a href="https://www.getdbt.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" width="40"/></a>
+<a href="https://www.getdbt.com/" target="_blank"><img src="https://www.svgrepo.com/show/330270/dbt.svg" width="40"/></a>
 <a href="https://www.databricks.com/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" width="80"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
