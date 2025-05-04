@@ -18,24 +18,26 @@ I’m a **Data Engineer** with a growing interest in **open source**, **DataOps*
 
 ### 💼 Tech Stack
 
-#### 🛠 Programming Languages
+#### 🛠 Programming Languages & Tools
 <p>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 <a href="https://www.sql.org/" target="_blank"><img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" width="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40"/></a>
+
 </p>
 
-#### 🔧 Technologies & Tools
+#### 🧱 Data Engineering Tools
 <p>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/aknguyenanh/images/main/logos/aws.png" width="40"/></a>
+<a href="https://www.getdbt.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" width="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/></a>
-<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/></a>
-<a href="https://www.databricks.com/" target="_blank"><img src="https://raw.githubusercontent.com/aknguyenanh/images/main/logos/databricks.png" width="40"/></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" width="40"/></a>
+<a href="https://www.databricks.com/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" width="80"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 </p>
+
+
 
 #### 🗃 Databases
 <p>
@@ -69,9 +71,17 @@ Here are some of the projects I’m working on or contributing to:
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements & Stats
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+#### 🏅 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoiDev13&row=2&column=3&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### 📊 Contribution Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KoiDev13&theme=github-compact)
+
+#### 🧩 Badges
+![Profile Views](https://komarev.com/ghpvc/?username=KoiDev13&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/KoiDev13?label=Follow&style=social)
 
 ---
 
